@@ -1,0 +1,204 @@
+/* Theme Variables */
+:root {
+  --header-bg: #ebecf0;
+  --header-text: #000;
+  --menu-icon-color: orangered;
+  --contact-bg: #ebecf0;
+  --button-bg: rgba(0, 0, 255, 0.859);
+  --footer-bg: #001220;
+  --footer-text: white;
+}
+
+[data-theme='dark'] {
+  --header-bg: #001220;
+  --header-text: white;
+  --menu-icon-color: cyan;
+  --contact-bg: #001322;
+  --button-bg: cyan;
+  --footer-bg: #00070d;
+  --footer-text: #ebecf0;
+}
+
+/* Dark Mode Toggle Button */
+/* (Remove if you don't want dark toggle) */
+
+/* Menu Icon fixed top-right with your styles */
+.menu-icon {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+
+  color: var(--menu-icon-color);
+  font-size: 70px;
+  margin: 20px; /* You can reduce margin if you want */
+  z-index: 9999; /* make sure it's above everything */
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.menu-icon:hover {
+  color: cyan;
+}
+
+/* Header / Menu Styles */
+.show-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: var(--header-bg);
+  height: 65vh;
+  width: 50%;
+  overflow: hidden;
+  border-bottom-left-radius: 50%;
+  transition: all 0.5s;
+  z-index: 2;
+  opacity: 0.9;
+}
+
+.show-header li,
+.hide-header li {
+  list-style: none;
+  margin-top: 20px;
+}
+
+/* .show-header li .header-links,
+.hide-header li .header-links {
+  color: var(--header-text);
+  text-decoration: none;
+} */
+
+.show-header li .header-links,
+.hide-header li .header-links {
+  color: white !important;
+  text-decoration: none;
+}
+
+
+.hide-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 0;
+  width: 0;
+  overflow: hidden;
+  transition: all 0.5s;
+}
+
+/* Active Link */
+.active {
+  border: 3px solid cyan;
+  color: cyan;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px;
+}
+.active a {
+  color: cyan;
+  font-weight: bold;
+}
+
+/* Mobile Responsive Menu */
+@media (max-width: 750px) {
+  .show-header {
+    height: 100vh;
+    width: 100%;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+    border-left: 5px solid rgba(255, 255, 255, 0.445);
+  }
+
+  .hide-header {
+    transition: all 0s;
+  }
+
+  .menu-icon {
+    font-size: 45px;
+    margin: 10px;
+  }
+
+  .contact {
+    margin-top: 0 !important;
+    padding: 0 !important;
+  }
+
+  .contact-form {
+    padding: 15px !important;
+    margin: 15px;
+  }
+}
+
+/* Contact Section */
+.contact {
+  padding-top: 50px;
+  background-color: var(--contact-bg);
+}
+
+.contact img {
+  height: 50vh;
+  width: 100%;
+}
+
+input,
+textarea {
+  margin-top: 25px;
+  border: none !important;
+  background-color: var(--contact-bg) !important;
+  box-shadow: 5px 5px 0px #cacbce, -5px -5px 0px #ffffff !important;
+  border-radius: 20px !important;
+  padding: 10px;
+}
+
+.form-control {
+  box-shadow: none;
+}
+
+.form-control:focus {
+  transform: scale(1.03);
+}
+
+/* Button */
+.contact button {
+  background-color: var(--button-bg);
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  transition: all 0.3s ease;
+}
+.contact button:hover {
+  transform: scale(1.05);
+}
+
+/* Footer */
+.footer-content {
+  background-color: var(--footer-bg);
+  text-align: center;
+  color: var(--footer-text);
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.footer svg {
+  color: var(--footer-text);
+  transition: all 0.3s ease;
+}
+
+.footer-content svg:hover {
+  color: cyan;
+  transform: scale(1.5);
+  cursor: pointer;
+}
+
+.wave {
+  margin-bottom: -1px;
+}

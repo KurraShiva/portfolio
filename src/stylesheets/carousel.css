@@ -1,0 +1,78 @@
+.carousel-parent {
+  height: 100vh;
+  background-color: #001220;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
+.carousel-parent h1 {
+  font-size: 2rem;
+  color: #ffffff;
+  margin-bottom: 40px;
+  z-index: 1;
+}
+
+.gallery {
+  height: 220px;
+  width: 220px;
+  position: relative;
+  transform-style: preserve-3d;
+  animation: gallery-rotate 20s linear infinite;
+}
+
+.gallery span {
+  height: 80%;
+  width: 80%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: center;
+  transform-style: preserve-3d;
+  transform: rotateY(calc(var(--i) * 36deg)) translateZ(450px);
+  transition: transform 0.8s ease;
+}
+
+.gallery span svg,
+.gallery span img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.2));
+  -webkit-box-reflect: below 1px linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.4));
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.gallery span svg:hover,
+.gallery span img:hover {
+  transform: scale(1.15);
+  opacity: 1;
+  cursor: pointer;
+}
+
+.gallery:hover {
+  animation-play-state: paused;
+}
+
+.gallery:hover span svg,
+.gallery:hover span img {
+  opacity: 0.2;
+}
+
+.gallery:hover span svg:hover,
+.gallery:hover span img:hover {
+  opacity: 1;
+}
+
+@keyframes gallery-rotate {
+  0% {
+    transform: perspective(1000px) rotateY(0deg);
+  }
+  100% {
+    transform: perspective(1000px) rotateY(360deg);
+  }
+}

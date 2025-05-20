@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 750 500" style="enable-background:new 0 0 750 500;" xml:space="preserve">
+<g id="BACKGROUND">
+	<rect style="fill:#B0B0B0;" width="750" height="500"/>
+</g>
+<g id="OBJECTS">
+	<g>
+		<g>
+			<path style="fill:#16202C;" d="M338.217,443.954H95.994c-7.002,0-12.678-5.676-12.678-12.678V68.724
+				c0-7.002,5.676-12.678,12.678-12.678h242.223c7.002,0,12.678,5.676,12.678,12.678v362.552
+				C350.895,438.278,345.219,443.954,338.217,443.954z"/>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 153.9033 91.2375)" style="fill:#FFFFFF; font-family:'Roboto-Bold'; font-size:11.5007px;">John Doe</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 153.9258 103.1681)" style="fill:#8A99A6; font-family:'Roboto-Regular'; font-size:8.4884px;">@Johnnydoe123</text>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M147.709,92.636c0,8.92-7.231,16.152-16.152,16.152c-8.92,0-16.152-7.231-16.152-16.152
+					c0-8.921,7.231-16.152,16.152-16.152C140.477,76.484,147.709,83.715,147.709,92.636z"/>
+			</defs>
+			<clipPath id="SVGID_00000096759706603158822050000011294457228256690597_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<path style="clip-path:url(#SVGID_00000096759706603158822050000011294457228256690597_);fill:none;stroke:#FFFFFF;stroke-width:0.297;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+				M147.709,92.636c0,8.92-7.231,16.152-16.152,16.152c-8.92,0-16.152-7.231-16.152-16.152c0-8.921,7.231-16.152,16.152-16.152
+				C140.477,76.484,147.709,83.715,147.709,92.636z"/>
+			<g style="clip-path:url(#SVGID_00000096759706603158822050000011294457228256690597_);">
+				<path style="fill:#FFFFFF;" d="M119.412,108.723L119.412,108.723h24.289l0,0c0-6.707-5.437-12.144-12.145-12.144l0,0
+					C124.85,96.579,119.412,102.016,119.412,108.723z"/>
+			</g>
+			<path style="clip-path:url(#SVGID_00000096759706603158822050000011294457228256690597_);fill:#FFFFFF;" d="M137.169,88.551
+				c0,3.1-2.513,6.695-5.613,6.695c-3.1,0-5.612-3.595-5.612-6.695c0-3.1,2.513-5.612,5.612-5.612
+				C134.657,82.938,137.169,85.451,137.169,88.551z"/>
+		</g>
+		<g>
+			<rect x="117.426" y="122.449" style="fill:none;" width="195.55" height="64.693"/>
+			<text transform="matrix(1 0 0 1 117.4258 128.8342)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'Raleway-Regular'; font-size:8.9942px;">Lorem ipsum dolor sit amet, consectetur adipiscing </tspan><tspan x="0" y="13.079" style="fill:#FFFFFF; font-family:'Raleway-Regular'; font-size:8.9942px;">elit. Quisque convallis vestibulum enim, eget </tspan><tspan x="0" y="26.157" style="fill:#FFFFFF; font-family:'Raleway-Regular'; font-size:8.9942px;">convallis mauris. Sed faucibus finibus dui, ut viverra </tspan><tspan x="0" y="39.235" style="fill:#FFFFFF; font-family:'Raleway-Regular'; font-size:8.9942px;">mauris porttitor sed </tspan><tspan x="76.17" y="39.235" style="fill:#42B2FC; font-family:'Raleway-Regular'; font-size:8.9942px;">#loremipsum</tspan></text>
+		</g>
+		<path style="fill:#747B80;" d="M303.151,344.772h-175.9c-5.426,0-9.825-4.399-9.825-9.825V206.014
+			c0-5.426,4.399-9.825,9.825-9.825h175.9c5.426,0,9.825,4.399,9.825,9.825v128.933
+			C312.976,340.373,308.577,344.772,303.151,344.772z"/>
+		<g>
+			
+				<path style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+				M136.864,413.063h-2.642c-2.229,0-4.036,1.807-4.036,4.036c0,2.229,1.807,4.037,4.036,4.037v2.148l2.642-2.148
+				c2.229,0,4.037-1.807,4.037-4.037C140.9,414.87,139.093,413.063,136.864,413.063z"/>
+			<g>
+				
+					<path style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+					M183.508,413.8v7.211c0,0.849,0.688,1.537,1.537,1.537h3.73"/>
+				
+					<polyline style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+					181.396,415.911 183.508,413.8 185.619,415.911 				"/>
+				
+					<path style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+					M192.39,422.548v-7.211c0-0.849-0.688-1.537-1.537-1.537h-3.73"/>
+				
+					<polyline style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+					194.501,420.436 192.39,422.548 190.279,420.436 				"/>
+			</g>
+			
+				<path style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+				M244.795,414.302c-1.102-1.102-2.888-1.102-3.989,0l-0.59,0.59l-0.591-0.59c-1.102-1.102-2.888-1.102-3.989,0
+				c-1.102,1.102-1.102,2.888,0,3.989l0.59,0.591l3.99,3.989l3.989-3.989l0.59-0.591
+				C245.897,417.19,245.897,415.404,244.795,414.302z"/>
+			
+				<path style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+				M293.883,418.957v3.07c0,0.573-0.465,1.038-1.038,1.038h-8.88c-0.573,0-1.038-0.465-1.038-1.038v-3.07"/>
+			
+				<polyline style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+				285.648,415.462 288.405,412.704 291.162,415.462 			"/>
+			
+				<line style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="288.405" y1="412.704" x2="288.405" y2="419.572"/>
+		</g>
+		<g>
+			<path style="fill:#42B2FC;" d="M217.6,89.627l-0.054,0.779c-0.049,0.71-0.606,1.279-1.314,1.343l-0.777,0.071
+				c-0.304,0.027-0.591,0.15-0.821,0.35l-0.589,0.513c-0.536,0.467-1.333,0.476-1.879,0.021l-0.6-0.5
+				c-0.234-0.195-0.524-0.312-0.828-0.332l-0.779-0.054c-0.71-0.049-1.279-0.606-1.343-1.314l-0.071-0.778
+				c-0.028-0.304-0.15-0.591-0.35-0.821l-0.513-0.589c-0.467-0.536-0.476-1.333-0.021-1.879l0.5-0.6
+				c0.195-0.234,0.312-0.524,0.333-0.828l0.053-0.779c0.049-0.71,0.606-1.279,1.314-1.343l0.777-0.071
+				c0.304-0.028,0.591-0.15,0.821-0.351l0.589-0.513c0.536-0.467,1.333-0.476,1.88-0.021l0.6,0.5
+				c0.234,0.195,0.524,0.312,0.828,0.332l0.779,0.054c0.71,0.049,1.279,0.606,1.343,1.314l0.071,0.777
+				c0.028,0.304,0.15,0.591,0.351,0.821l0.513,0.589c0.467,0.536,0.476,1.333,0.021,1.879l-0.5,0.6
+				C217.737,89.033,217.621,89.322,217.6,89.627z"/>
+			
+				<polyline style="fill:none;stroke:#FFFFFF;stroke-width:0.781;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+				210.794,87.484 212.67,89.054 215.657,85.582 			"/>
+		</g>
+		<g>
+			<path style="fill:#8A99A6;" d="M299.456,88.353c0,0.572-0.463,1.035-1.035,1.035c-0.572,0-1.035-0.463-1.035-1.035
+				c0-0.572,0.463-1.035,1.035-1.035C298.992,87.318,299.456,87.781,299.456,88.353z"/>
+			<circle style="fill:#8A99A6;" cx="304.228" cy="88.353" r="1.035"/>
+			<circle style="fill:#8A99A6;" cx="310.035" cy="88.353" r="1.035"/>
+		</g>
+		<text transform="matrix(1 0 0 1 117.4258 392.1095)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'Roboto-Bold'; font-size:8.2479px;">3.854</tspan><tspan x="21.325" y="0" style="fill:#8A99A6; font-family:'Roboto-Regular'; font-size:8.2479px;"> Retweets   </tspan><tspan x="63.519" y="0" style="fill:#FFFFFF; font-family:'Roboto-Bold'; font-size:8.2479px;">1.098</tspan><tspan x="84.843" y="0" style="fill:#8A99A6; font-family:'Roboto-Regular'; font-size:8.2479px;"> Quote Tweets   </tspan><tspan x="143.843" y="0" style="fill:#FFFFFF; font-family:'Roboto-Bold'; font-size:8.2479px;">21.4k</tspan><tspan x="164.842" y="0" style="fill:#8A99A6; font-family:'Roboto-Regular'; font-size:8.2479px;"> Likes</tspan></text>
+		<text transform="matrix(1 0 0 1 117.4258 367.1916)"><tspan x="0" y="0" style="fill:#8A99A6; font-family:'Roboto-Regular'; font-size:8.2479px;">09:04 PM · 26/11/2022 · </tspan><tspan x="91.287" y="0" style="fill:#42B2FC; font-family:'Roboto-Regular'; font-size:8.2479px;">Twitter for Phone </tspan></text>
+		
+			<line style="fill:none;stroke:#747B80;stroke-width:0.1635;stroke-miterlimit:10;" x1="83.317" y1="376.68" x2="350.895" y2="376.68"/>
+		
+			<line style="fill:none;stroke:#747B80;stroke-width:0.1635;stroke-miterlimit:10;" x1="83.317" y1="402.076" x2="350.895" y2="402.076"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path style="fill:#FFFFFF;" d="M654.005,443.954H411.783c-7.002,0-12.678-5.676-12.678-12.678V68.724
+					c0-7.002,5.676-12.678,12.678-12.678h242.223c7.002,0,12.678,5.676,12.678,12.678v362.552
+					C666.683,438.278,661.007,443.954,654.005,443.954z"/>
+			</g>
+			<g>
+				
+					<path style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+					M456.724,413.063h-2.642c-2.229,0-4.036,1.807-4.036,4.036c0,2.229,1.807,4.037,4.036,4.037v2.148l2.642-2.148
+					c2.229,0,4.037-1.807,4.037-4.037C460.76,414.87,458.953,413.063,456.724,413.063z"/>
+				<g>
+					
+						<path style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+						M503.368,413.8v7.211c0,0.849,0.688,1.537,1.537,1.537h3.73"/>
+					
+						<polyline style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+						501.256,415.911 503.368,413.8 505.479,415.911 					"/>
+					
+						<path style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+						M512.25,422.548v-7.211c0-0.849-0.688-1.537-1.537-1.537h-3.73"/>
+					
+						<polyline style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+						514.361,420.436 512.25,422.548 510.138,420.436 					"/>
+				</g>
+				
+					<path style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+					M564.655,414.302c-1.102-1.102-2.888-1.102-3.989,0l-0.59,0.59l-0.591-0.59c-1.102-1.102-2.888-1.102-3.989,0
+					c-1.102,1.102-1.102,2.888,0,3.989l0.591,0.591l3.99,3.989l3.989-3.989l0.59-0.591
+					C565.757,417.19,565.757,415.404,564.655,414.302z"/>
+				
+					<path style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+					M613.743,418.957v3.07c0,0.573-0.465,1.038-1.038,1.038h-8.88c-0.573,0-1.038-0.465-1.038-1.038v-3.07"/>
+				
+					<polyline style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+					605.508,415.462 608.265,412.704 611.022,415.462 				"/>
+				
+					<line style="fill:none;stroke:#8A99A6;stroke-width:0.7134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="608.265" y1="412.704" x2="608.265" y2="419.572"/>
+			</g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 469.6914 91.2375)" style="fill:#2B2E39; font-family:'Roboto-Bold'; font-size:11.5007px;">John Doe</text>
+				</g>
+				<g>
+					
+						<text transform="matrix(1 0 0 1 469.7139 103.1681)" style="fill:#767785; font-family:'Roboto-Regular'; font-size:8.4884px;">@Johnnydoe123</text>
+				</g>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_00000008870616176715686080000002184582596688101257_" d="M463.497,92.636c0,8.92-7.231,16.152-16.152,16.152
+						c-8.92,0-16.152-7.231-16.152-16.152c0-8.921,7.231-16.152,16.152-16.152C456.266,76.484,463.497,83.715,463.497,92.636z"/>
+				</defs>
+				<clipPath id="SVGID_00000134948770523370899390000014366138877155905972_">
+					<use xlink:href="#SVGID_00000008870616176715686080000002184582596688101257_"  style="overflow:visible;"/>
+				</clipPath>
+				
+					<path style="clip-path:url(#SVGID_00000134948770523370899390000014366138877155905972_);fill:none;stroke:#767785;stroke-width:0.297;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+					M463.497,92.636c0,8.92-7.231,16.152-16.152,16.152c-8.92,0-16.152-7.231-16.152-16.152c0-8.921,7.231-16.152,16.152-16.152
+					C456.266,76.484,463.497,83.715,463.497,92.636z"/>
+				<g style="clip-path:url(#SVGID_00000134948770523370899390000014366138877155905972_);">
+					<path style="fill:#767785;" d="M435.2,108.723L435.2,108.723h24.289l0,0c0-6.707-5.438-12.144-12.145-12.144l0,0
+						C440.638,96.579,435.2,102.016,435.2,108.723z"/>
+				</g>
+				<path style="clip-path:url(#SVGID_00000134948770523370899390000014366138877155905972_);fill:#767785;" d="M452.957,88.551
+					c0,3.1-2.513,6.695-5.613,6.695c-3.1,0-5.612-3.595-5.612-6.695c0-3.1,2.513-5.612,5.612-5.612
+					C450.445,82.938,452.957,85.451,452.957,88.551z"/>
+			</g>
+			<g>
+				<rect x="433.214" y="122.449" style="fill:none;" width="195.55" height="64.693"/>
+				<text transform="matrix(1 0 0 1 433.2148 128.8342)"><tspan x="0" y="0" style="fill:#16202C; font-family:'Raleway-Regular'; font-size:8.9942px;">Lorem ipsum dolor sit amet, consectetur adipiscing </tspan><tspan x="0" y="13.079" style="fill:#16202C; font-family:'Raleway-Regular'; font-size:8.9942px;">elit. Quisque convallis vestibulum enim, eget </tspan><tspan x="0" y="26.157" style="fill:#16202C; font-family:'Raleway-Regular'; font-size:8.9942px;">convallis mauris. Sed faucibus finibus dui, ut viverra </tspan><tspan x="0" y="39.235" style="fill:#16202C; font-family:'Raleway-Regular'; font-size:8.9942px;">mauris porttitor sed</tspan><tspan x="74.261" y="39.235" style="fill:#FFFFFF; font-family:'Raleway-Regular'; font-size:8.9942px;"> </tspan><tspan x="76.167" y="39.235" style="fill:#42B2FC; font-family:'Raleway-Regular'; font-size:8.9942px;">#loremipsum</tspan></text>
+			</g>
+			<path style="fill:#CFCFCF;" d="M618.939,344.772h-175.9c-5.426,0-9.825-4.399-9.825-9.825V206.014
+				c0-5.426,4.399-9.825,9.825-9.825h175.9c5.426,0,9.825,4.399,9.825,9.825v128.933
+				C628.764,340.373,624.365,344.772,618.939,344.772z"/>
+			<g>
+				<path style="fill:#42B2FC;" d="M533.388,89.627l-0.054,0.779c-0.049,0.71-0.606,1.279-1.314,1.343l-0.777,0.071
+					c-0.304,0.027-0.591,0.15-0.821,0.35l-0.589,0.513c-0.536,0.467-1.333,0.476-1.88,0.021l-0.6-0.5
+					c-0.234-0.195-0.524-0.312-0.828-0.332l-0.779-0.054c-0.71-0.049-1.279-0.606-1.344-1.314l-0.071-0.778
+					c-0.028-0.304-0.15-0.591-0.351-0.821l-0.513-0.589c-0.467-0.536-0.476-1.333-0.021-1.879l0.5-0.6
+					c0.195-0.234,0.312-0.524,0.332-0.828l0.054-0.779c0.049-0.71,0.606-1.279,1.314-1.343l0.777-0.071
+					c0.304-0.028,0.591-0.15,0.821-0.351l0.589-0.513c0.536-0.467,1.333-0.476,1.879-0.021l0.6,0.5
+					c0.234,0.195,0.524,0.312,0.828,0.332l0.779,0.054c0.71,0.049,1.279,0.606,1.344,1.314l0.071,0.777
+					c0.028,0.304,0.15,0.591,0.35,0.821l0.513,0.589c0.467,0.536,0.476,1.333,0.021,1.879l-0.5,0.6
+					C533.525,89.033,533.409,89.322,533.388,89.627z"/>
+				
+					<polyline style="fill:none;stroke:#FFFFFF;stroke-width:0.781;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+					526.582,87.484 528.458,89.054 531.445,85.582 				"/>
+			</g>
+			<g>
+				<circle style="fill:#8A99A6;" cx="614.209" cy="88.353" r="1.035"/>
+				<circle style="fill:#8A99A6;" cx="620.016" cy="88.353" r="1.035"/>
+				<circle style="fill:#8A99A6;" cx="625.823" cy="88.353" r="1.035"/>
+			</g>
+			
+				<line style="fill:none;stroke:#CFCFCF;stroke-width:0.1635;stroke-miterlimit:10;" x1="399.105" y1="376.68" x2="666.683" y2="376.68"/>
+			
+				<line style="fill:none;stroke:#CFCFCF;stroke-width:0.1635;stroke-miterlimit:10;" x1="399.105" y1="402.076" x2="666.683" y2="402.076"/>
+		</g>
+		<text transform="matrix(1 0 0 1 433.2139 392.1095)"><tspan x="0" y="0" style="fill:#16202C; font-family:'Roboto-Bold'; font-size:8.2479px;">3.854</tspan><tspan x="21.324" y="0" style="fill:#16202C; font-family:'Roboto-Regular'; font-size:8.2479px;"> </tspan><tspan x="23.366" y="0" style="fill:#8A99A6; font-family:'Roboto-Regular'; font-size:8.2479px;">Retweets </tspan><tspan x="59.435" y="0" style="fill:#16202C; font-family:'Roboto-Regular'; font-size:8.2479px;">  </tspan><tspan x="63.519" y="0" style="fill:#16202C; font-family:'Roboto-Bold'; font-size:8.2479px;">1.098</tspan><tspan x="84.843" y="0" style="fill:#16202C; font-family:'Roboto-Regular'; font-size:8.2479px;"> </tspan><tspan x="86.885" y="0" style="fill:#8A99A6; font-family:'Roboto-Regular'; font-size:8.2479px;">Quote Tweets   </tspan><tspan x="143.844" y="0" style="fill:#16202C; font-family:'Roboto-Bold'; font-size:8.2479px;">21.4k</tspan><tspan x="164.842" y="0" style="fill:#16202C; font-family:'Roboto-Regular'; font-size:8.2479px;"> </tspan><tspan x="166.884" y="0" style="fill:#8A99A6; font-family:'Roboto-Regular'; font-size:8.2479px;">Likes</tspan></text>
+		<text transform="matrix(1 0 0 1 433.2139 367.1916)"><tspan x="0" y="0" style="fill:#8A99A6; font-family:'Roboto-Regular'; font-size:8.2479px;">09:04 PM · 26/11/2022 · </tspan><tspan x="91.287" y="0" style="fill:#42B2FC; font-family:'Roboto-Regular'; font-size:8.2479px;">Twitter for Phone </tspan></text>
+	</g>
+</g>
+</svg>
