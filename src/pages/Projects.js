@@ -30,7 +30,7 @@ function Projects() {
                             size='180px' />
                     </div>
                 </div>
-            </div>
+            </div> 
 
             {/* List of projects  */}
             <div className='container projects-list' id='projectsList'>
