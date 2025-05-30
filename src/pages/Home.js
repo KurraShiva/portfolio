@@ -25,7 +25,7 @@ function Home() {
 
             <button className="primary-button font-bold">
               <Link
-                to="https://drive.google.com/file/d/1fedqkbidPNLOWVVK2ojxDupkm1yjmUBs/view?usp=drive_link"
+                to="https://drive.google.com/file/d/1fedqkbidPNLOWVVK2ojxDupkm1yjmUBs/view?usp=sharing"
                 target="_blank"
                 style={{ textDecoration: "none", color: "black", fontWeight: "bold" }}
               >
