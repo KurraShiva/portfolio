@@ -12,7 +12,8 @@ function Courses() {
 
                     <div>
                         <p>
-                            "I'm an adept programmer, skilled in communication and adaptable. Proficient in Frontend and Backend technologies, with MERN Stack expertise. Strong in Data Structures, Algorithms, and collaborative problem-solving. Committed to team success, effective in building social connections."
+                            "I'm a skilled Java developer with strong expertise in object-oriented programming, data structures, and algorithms. Proficient in both backend and frontend technologies, with hands-on experience in Java frameworks and web development. Adaptable, collaborative, and effective in communication, committed to delivering high-quality solutions and contributing to team success."
+                            {/* "I'm an adept programmer, skilled in communication and adaptable. Proficient in Frontend and Backend technologies, with MERN Stack expertise. Strong in Data Structures, Algorithms, and collaborative problem-solving. Committed to team success, effective in building social connections." */}
                         </p>
 
                         <button className='primary-button'><a href='#whyme' style={{textDecoration:'none',color:'black',fontWeight:'bold',fontSize:'18px'}}>Get Started</a></button>

@@ -25,12 +25,12 @@ function Home() {
 
             <button className="primary-button font-bold">
               <Link
-                to="https://drive.google.com/file/d/1fedqkbidPNLOWVVK2ojxDupkm1yjmUBs/view?usp=drive_link"
+                to="https://drive.google.com/file/d/1fedqkbidPNLOWVVK2ojxDupkm1yjmUBs/view?usp=sharing"
                 target="_blank"
                 style={{ textDecoration: "none", color: "black", fontWeight: "bold" }}
               >
                 My Resume
-              </Link>
+              </Link>  
             </button>
           </div>
         </div>
@@ -159,3 +159,6 @@ function Home() {
 }
 
 export default Home;
+
+
+// "https://drive.google.com/file/d/1fedqkbidPNLOWVVK2ojxDupkm1yjmUBs/vieusp=drive_link"
